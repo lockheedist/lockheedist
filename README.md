@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on qlub
 
-- 🌱 I’m currently learning **Python, Docker, ML&AI**
+- 🌱 I’m currently learning **Python, Data Science, Site Reliability Engineering**
 
 - 👨‍💻 All of my projects are available at [my repository.](my repository.)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Data**
 
 - 📫 How to reach me **brainhein@gmail.com**
 
