@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Burak Keskin</h1>
 <h3 align="center">A passionate junior developer from Turkey</h3>
 
-- 🔭 I’m currently working on qlub
+- 🔭 I’m currently looking for a full-time job also making freelance works.
 
 - 🌱 I’m currently learning **Python, Data Science, Site Reliability Engineering**
 
