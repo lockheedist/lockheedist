@@ -4,17 +4,14 @@
 
 - 🔭 I’m currently looking for a full-time job also making freelance works.
 
-- 🌱 I’m currently learning **Python, Data Science, Site Reliability Engineering**
+- 👨‍💻 All of my projects are available at my repository.
 
-- 👨‍💻 All of my projects are available at [my repository.](my repository.)
+- 💬 Ask me about **Python, Data Analysis, Front End**
 
-- 💬 Ask me about **Python, Data**
-
-- 📫 How to reach me **brainhein@gmail.com**
+- 📫 How to reach me **burakkeskinn1@icloud.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/burak-keskin-337208194/](https://www.linkedin.com/in/burak-keskin-337208194/)
 
-- ⚡ Fun fact **I am a positive hardworking guy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
