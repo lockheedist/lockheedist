@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at my repository.
 
-- 💬 Ask me about **Python, Data Analysis, Front End**
+- 💬 Ask me about **Python, Data Analysis, FrontEnd**
 
 - 📫 How to reach me **burakkeskinn1@icloud.com**
 
